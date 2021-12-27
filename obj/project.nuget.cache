@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+sbm8GkkBoMkIhmrr64ttvDk0Wqh+EBuSQ5p0S4mEcnIlFXdbNmnpGWF1wIAP9iW6nnuFJ+XRcrNXSZS3AwJ8Q==",
+  "dgSpecHash": "jlteYY6aCMm+XP4eDehL/gIQCTB7DT8steRXYg/F370bMLwi3Jt/MaC5sW4HqWcQpmYFALHCrdZzsGSjjcjobQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alterra\\source\\repos\\PROJECT\\ApotekConsoleApp\\ApotekConsoleApp\\ApotekConsoleApp.csproj",
   "expectedPackageFiles": [
@@ -29,18 +29,6 @@
     "C:\\Users\\Alterra\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\2.2.6\\pomelo.entityframeworkcore.mysql.2.2.6.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\pomelo.jsonobject\\2.2.0\\pomelo.jsonobject.2.2.0.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\remotion.linq\\2.2.0\\remotion.linq.2.2.0.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.any.system.collections\\4.0.11\\runtime.any.system.collections.4.0.11.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.any.system.globalization\\4.0.11\\runtime.any.system.globalization.4.0.11.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.any.system.io\\4.1.0\\runtime.any.system.io.4.1.0.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.any.system.reflection\\4.1.0\\runtime.any.system.reflection.4.1.0.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.any.system.reflection.extensions\\4.0.1\\runtime.any.system.reflection.extensions.4.0.1.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.0.1\\runtime.any.system.reflection.primitives.4.0.1.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.any.system.resources.resourcemanager\\4.0.1\\runtime.any.system.resources.resourcemanager.4.0.1.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.any.system.runtime\\4.1.0\\runtime.any.system.runtime.4.1.0.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.any.system.text.encoding\\4.0.11\\runtime.any.system.text.encoding.4.0.11.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.0.11\\runtime.any.system.threading.tasks.4.0.11.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.win.system.diagnostics.debug\\4.0.11\\runtime.win.system.diagnostics.debug.4.0.11.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\runtime.win.system.runtime.extensions\\4.1.0\\runtime.win.system.runtime.extensions.4.1.0.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
@@ -54,7 +42,6 @@
     "C:\\Users\\Alterra\\.nuget\\packages\\system.linq.queryable\\4.0.1\\system.linq.queryable.4.0.1.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\system.private.uri\\4.0.1\\system.private.uri.4.0.1.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\system.reflection.emit\\4.0.1\\system.reflection.emit.4.0.1.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.0.1\\system.reflection.emit.ilgeneration.4.0.1.nupkg.sha512",
@@ -68,10 +55,7 @@
     "C:\\Users\\Alterra\\.nuget\\packages\\system.runtime.extensions\\4.1.0\\system.runtime.extensions.4.1.0.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
     "C:\\Users\\Alterra\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.22\\microsoft.netcore.app.runtime.win-x64.3.1.22.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.22\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.22.nupkg.sha512",
-    "C:\\Users\\Alterra\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.22\\microsoft.aspnetcore.app.runtime.win-x64.3.1.22.nupkg.sha512"
+    "C:\\Users\\Alterra\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512"
   ],
   "logs": []
 }
