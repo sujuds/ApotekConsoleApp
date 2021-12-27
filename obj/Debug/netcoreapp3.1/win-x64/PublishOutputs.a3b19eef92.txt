@@ -1,0 +1,2 @@
+C:\Users\Alterra\source\repos\PROJECT\ApotekConsoleApp\ApotekConsoleApp\bin\Debug\netcoreapp3.1\win-x64\publish\ApotekConsoleApp.pdb
+C:\Users\Alterra\source\repos\PROJECT\ApotekConsoleApp\ApotekConsoleApp\bin\Debug\netcoreapp3.1\win-x64\publish\ApotekConsoleApp.exe

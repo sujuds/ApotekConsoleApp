@@ -1,0 +1,2 @@
+C:\Users\Alterra\source\repos\PROJECT\ApotekConsoleApp\ApotekConsoleApp\bin\Release\netcoreapp3.1\osx.10.11-x64\publish\ApotekConsoleApp.pdb
+C:\Users\Alterra\source\repos\PROJECT\ApotekConsoleApp\ApotekConsoleApp\bin\Release\netcoreapp3.1\osx.10.11-x64\publish\ApotekConsoleApp
